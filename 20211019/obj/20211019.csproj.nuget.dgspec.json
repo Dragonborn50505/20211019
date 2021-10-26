@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj": {}
+    "C:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj": {}
   },
   "projects": {
-    "c:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj": {
+    "C:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj",
+        "projectUniqueName": "C:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj",
         "projectName": "20211019",
-        "projectPath": "c:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj",
+        "projectPath": "C:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\20211019.csproj",
         "packagesPath": "C:\\Users\\allinggard.vincent\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\obj\\",
+        "outputPath": "C:\\Users\\allinggard.vincent\\Desktop\\Programering\\20211019\\20211019\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allinggard.vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"

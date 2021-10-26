@@ -1,0 +1,16 @@
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\20211019.exe
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\20211019.deps.json
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\20211019.runtimeconfig.json
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\20211019.runtimeconfig.dev.json
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\20211019.dll
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\ref\20211019.dll
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\bin\Debug\net5.0\20211019.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.csproj.AssemblyReference.cache
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.AssemblyInfoInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.AssemblyInfo.cs
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.csproj.CoreCompileInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.dll
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\ref\20211019.dll
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\20211019\20211019\obj\Debug\net5.0\20211019.genruntimeconfig.cache
