@@ -18,7 +18,11 @@ static string GetAnswer()
     string pay_or_shop = "";
     string how_many = "";
     int money = 100;
-    while (choice != "a" && choice != "b" && choice != "c")
+    string pay;
+
+
+
+    while (money > 0)
     {
         choice = Console.ReadLine();
         choice = choice.ToLower();
@@ -41,12 +45,44 @@ static string GetAnswer()
             {
                 Console.WriteLine($"You have {money} dollars would you like to pay or contineu shopping ");
                 Console.ReadLine();
-            
-                  if (pay_or_shop ="pay"){
-                
-                     }else{
+                pay = Console.ReadLine();
 
-                     }
+                if (pay_or_shop == pay)
+                {
+                    Console.WriteLine($"The total cost were {cost} and you are left with {money} dollars");
+                    money = 0;
+                    Console.ReadLine();
+
+                }
+                else
+                {
+
+                }
+            }
+
+            else
+            {
+                Console.WriteLine("You dont have enough money, would you like change how many you will buy?");
+            }
+        }
+
+        else if (choice == "b")
+        {
+            cost = 8 * howManyNum;
+            money -= cost;
+            if (cost < money)
+            {
+                 Console.WriteLine($"You have {money} dollars would you like to pay or contineu shopping ");
+                Console.ReadLine();
+                pay = Console.ReadLine();
+
+                if (pay_or_shop == pay)
+                {
+                    Console.WriteLine($"The total cost were {cost} and you are left with {money} dollars");
+                    money = 0;
+                    Console.ReadLine();
+
+                }
 
             }
 
@@ -54,31 +90,24 @@ static string GetAnswer()
             {
                 Console.WriteLine("You dont have enough money, would you like change how many you will buy?");
             }
-
         }
 
-        else if (choice == "b")
-        { cost = 8 * howManyNum;
-        money -= cost;
-            if (cost < money)
-            {
-                 Console.WriteLine($"You have {money} dollars would you like to pay or contineu shopping ");
-            }
-
-             else
-             {
-                Console.WriteLine("You dont have enough money, would you like change how many you will buy?");
-             }
-        }
-      
 
         else if (choice == "c")
-        { cost = 10 * howManyNum;
-        money -= cost;
+        {
+            cost = 10 * howManyNum;
+            money -= cost;
             if (cost < money)
             {
                 Console.WriteLine($"You have {money} dollars would you like to pay or contineu shopping ");
             }
+
+
+
+
+
+
+
             else
             {
                 Console.WriteLine("You dont have enough money, would you like change how many you will buy?");
@@ -86,17 +115,9 @@ static string GetAnswer()
         }
 
 
-     
 
-        if (money > 0)
-        {
-            Console.WriteLine("Would you like to continue shopping or pay for what you have?");
-        }
 
-        else
-        {
-            Console.WriteLine("You don´t have enough money, go to the register to pay");
-        }
+
 
     }
     return choice;
